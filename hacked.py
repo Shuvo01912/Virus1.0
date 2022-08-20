@@ -1,5 +1,5 @@
 import os
-for i in range(1):
+for i in range(30):
     for x in range(10):
         os.system('start')
 
